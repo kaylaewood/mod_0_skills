@@ -11,18 +11,18 @@
             - 1.1.1.3 read reviews
         - 1.1.2 gather input from current turing students and alum
             - 1.1.2.1 find contacts
-                - 1.1.2.1 text the only turing alum you know
-                - 1.1.2.2 ask for his opinion on turing
-                - 1.1.2.3 ask for contact info for more alum and students
-            - 1.1.2.1 talk to new contacts
-                - 1.1.2.1 email or text questions to each person
-                - 1.1.2.2 read responses
+                - 1.1.2.1.1 text the only turing alum you know
+                - 1.1.2.1.2 ask for his opinion on turing
+                - 1.1.2.1.3 ask for contact info for more alum and students
+            - 1.1.2.2 talk to new contacts
+                - 1.1.2.2.1 email or text questions to each person
+                - 1.1.2.2.2 read responses
     - 1.2 prepare for application process
         - 1.2.1 practice lsat logic games
-            - 1.2.1 google lsat logic games
-            - 1.2.2 complete practice problems
-            - 1.2.3 check answers
-            - 1.2.4 review mistakes
+            - 1.2.1.1 google lsat logic games
+            - 1.2.1.2 complete practice problems
+            - 1.2.1.3 check answers
+            - 1.2.1.4 review mistakes
         - 1.2.2 prepare materials
             - 1.2.2.1 prepare resume
                 - 1.2.2.1.1 open a google document file
