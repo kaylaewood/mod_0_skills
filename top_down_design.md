@@ -1,4 +1,5 @@
-# 1 how to become a turing student
+# How to Become a Turing Student
+- 1 become a turing student
     - 1.1 decide turing is the best
         - 1.1.1 research programming schools
             - 1.1.1.1 google programming schools in denver
