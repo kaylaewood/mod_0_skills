@@ -1,0 +1,13 @@
+Class: Staff
+
+Attributes:
+last_name (string)
+is_teacher (boolean)
+year_hired (integer)
+salary (float)
+
+Methods:
+change_name (changes last_name string)
+change_role (changes is_teacher to true or false)
+calculate_years_experience (subtract year_hired from current_year)
+give_raise (increase salary by 1000)
