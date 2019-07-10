@@ -1,0 +1,15 @@
+Object: Classroom 108
+
+Attributes:
+student_capacity: 30
+wall_color: "blue"
+has_projector: false
+assigned_instructor: Wood
+current_students: 23
+
+Methods:
+calculate_seats_available: 30 - 23 = 7
+change_instructor: assigned_instructor = "Bull"
+add_projector: has_projector = true
+enroll_student: 23 + 1 = 24
+absent_student: 23 - 1 = 22
