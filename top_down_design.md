@@ -1,0 +1,66 @@
+- 1 how to become a turing student
+    - 1.1 decide turing is the best
+        - 1.1.1 research programming schools
+            - 1.1.1.1 google programming schools in denver
+            - 1.1.1.2 compare outcome reports
+                - 1.1.1.2.1 visit website for each school
+                - 1.1.1.2.2 find outcomes report on school website
+                - 1.1.1.2.3 download outcomes report pdf
+                - 1.1.1.2.4 compare facts and figures between each report
+            - 1.1.1.3 read reviews
+        - 1.1.2 gather input from current turing students and alum
+            - 1.1.2.1 find contacts
+                - 1.1.2.1 text the only turing alum you know
+                - 1.1.2.2 ask for his opinion on turing
+                - 1.1.2.3 ask for contact info for more alum and students
+            - 1.1.2.1 talk to new contacts
+                - 1.1.2.1 email or text questions to each person
+                - 1.1.2.2 read responses
+    - 1.2 prepare for application process
+        - 1.2.1 practice lsat logic games
+            - 1.2.1 google lsat logic games
+            - 1.2.2 complete practice problems
+            - 1.2.3 check answers
+            - 1.2.4 review mistakes
+        - 1.2.2 prepare materials
+            - 1.2.2.1 prepare resume
+                - 1.2.2.1.1 open a google document file
+                - 1.2.2.1.2 list experience
+                - 1.2.2.1.3 format resume
+                - 1.2.2.1.4 seek feedback
+                - 1.2.2.1.5 update resume by implementing feedback
+                - 1.2.2.1.6 save file as kwood_resume.pdf
+            - 1.2.2.2 prepare cover letter
+                - 1.2.2.2.1 open a google document file
+                - 1.2.2.2.2 write rough draft
+                - 1.2.2.2.3 seek feedback
+                - 1.2.2.2.4 update cover letter by implementing feedback
+                - 1.2.2.2.5 save file as kwood_cover_letter.pdf
+    - 1.3 apply to turing
+        - 1.3.1 complete online application
+            - 1.3.1.1 go to application website
+            - 1.3.1.2 create a profile
+            - 1.3.1.3 enter information
+            - 1.3.1.4 attack logic games
+            - 1.3.1.5 submit application
+        - 1.3.2 attend interview
+            - 1.3.2.1 drive to turing
+            - 1.3.2.2 find parking
+            - 1.3.2.3 walk into building
+            - 1.3.2.4 meet louisa
+                - 1.3.2.4.1 shake her hand
+                - 1.3.2.4.2 introduce yourself
+            - 1.3.2.5 complete logic game with louisa
+            - 1.3.2.6 answer questions
+            - 1.3.2.7 leave
+    - 1.4 accept offer
+        - 1.4.1 email joanne
+        - 1.4.2 choose a cohort and program
+            - 1.4.2.1 research programs
+                - 1.4.2.1.1 compare outcome reports for fe and be programs
+                - 1.4.2.1.2 talk to students and alum
+                - 1.4.2.1.3 job shadow someone from fe and be
+                - 1.4.2.1.4 choose program that excites you the most
+            - 1.4.2.2 choose best start date
+                - 1.4.2.2.1 compare your calendar with cohort calendars
+                - 1.4.2.2.2 choose start date that has no conflict with your calendar
