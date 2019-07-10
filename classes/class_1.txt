@@ -1,0 +1,15 @@
+Class: Classroom
+
+Attributes:
+student_capacity (integer)
+wall_color (string)
+has_projector (boolean)
+assigned_instructor (string)
+current_students (integer)
+
+Methods:
+calculate_seats_available (subtracts current_students from student_capacity)
+change_instructor (changes assigned_instructor to new string)
+add_projector (changes has_projector to true)
+enroll_student (increases current_students by 1)
+absent_student (decreases current_students by 1)
