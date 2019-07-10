@@ -1,0 +1,13 @@
+Object: Anna Mendez
+
+Attributes:
+last_name: "Mendez"
+is_teacher: true
+year_hired: 2014
+salary: 50000
+
+Methods:
+change_name: last_name = "Mendez-Hickman"
+change_role: is_teacher = false
+calculate_years_experience: 2019 - 2014 = 5
+give_raise: 50000 + 1000 = 51000
